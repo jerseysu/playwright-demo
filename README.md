@@ -4,6 +4,7 @@
 
 [![Playwright-Tests](https://github.com/jerseysu/react-playwright-demo/actions/workflows/playwright.yml/badge.svg)](https://github.com/jerseysu/react-playwright-demo/actions/workflows/playwright.yml)
 [![Publish](https://github.com/jerseysu/react-playwright-demo/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/jerseysu/react-playwright-demo/actions/workflows/pages/pages-build-deployment)
+[![gitcgr](https://gitcgr.com/badge/jerseysu/react-playwright-demo.svg)](https://gitcgr.com/jerseysu/react-playwright-demo)
 
 
 ![](logo-new-dark.png)
